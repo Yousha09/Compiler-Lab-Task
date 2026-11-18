@@ -1,0 +1,32 @@
+
+Line 1:
+    int -> Keyword
+    main -> Keyword
+    ( -> Punctuation
+    ) -> Punctuation
+    { -> Punctuation
+
+Line 2:
+    x -> Identifier
+    ; -> Punctuation
+
+Line 3:
+    = -> Operator
+    10 -> Numeric Constant
+
+Line 4:
+    float -> Keyword
+    y -> Identifier
+    2.5 -> Numeric Constant
+
+Line 5:
+    cout -> Identifier
+    < -> Operator
+    " hello world " -> String Constant
+
+Line 6:
+    return -> Keyword
+    0 -> Numeric Constant
+
+Line 7:
+    } -> Punctuation

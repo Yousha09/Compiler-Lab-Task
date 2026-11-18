@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1791951363 source:d:\c++ warmup\compiler_mid_task\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1793511207 source:d:\compiler lab works\compiler_mid_task\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+
